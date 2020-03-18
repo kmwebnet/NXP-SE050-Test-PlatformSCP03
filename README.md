@@ -1,6 +1,6 @@
 # NXP SE050 Test-PlatformSCP03
 
-This communicates NXP SE050 secure chip from ESP32 and execute "get infos" sample code with transport encryption.
+This communicates NXP SE050 secure chip from ESP32 and execute "get infos" sample code with transport encryption.  
 it helps to make sure the connection between them.
 
 # Requirements
