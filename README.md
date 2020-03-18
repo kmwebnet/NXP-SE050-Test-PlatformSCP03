@@ -23,7 +23,9 @@ it helps to make sure the connection between them.
           
   NXP SE050C1(on I2C port 1)  
 
-if you use other variants you need to change ENC, MAC, DEK key definition on port/ex_sss_auth.h
+if you use other variants you need to change ENC, MAC, DEK key definition on port/ex_sss_auth.h]
+
+Never use this code as production unless you change 3 keys to your ownn.
 
 # Usage
 
