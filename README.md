@@ -1,6 +1,6 @@
-# NXP SE050 Test-Get-Info
+# NXP SE050 Test-PlatformSCP03
 
-This communicates NXP SE050 secure chip from ESP32 and execute "get infos" sample code.
+This communicates NXP SE050 secure chip from ESP32 and execute "get infos" sample code with transport encryption.
 it helps to make sure the connection between them.
 
 # Requirements
@@ -36,7 +36,7 @@ you need to change a serial port number which actually connected to ESP32 in pla
 
 just execute "Upload" on Platformio.  
 
-yougan get the result as follows:
+you can get the result as follows:
 
 ```
        App:INFO :PlugAndTrust_v02.12.04_20200228
